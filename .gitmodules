@@ -1,0 +1,6 @@
+[submodule "lib/EmberLib"]
+	path = lib/EmberLib
+	url = https://github.com/Aargonian/EmberLib
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw
